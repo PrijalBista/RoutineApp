@@ -12,3 +12,11 @@
 
 > Backend server got down because it was freely hosted one :_) 
 > Components like Drawer and other stuffs can be reused for other projects though
+
+## ScreenShots of the end product :_
+
+<div>
+  <img src="https://github.com/PrijalBista/routineapp/blob/master/screenshots/screenshot.jpg" height="450" width="225" >
+  <img src="https://github.com/PrijalBista/routineapp/blob/master/screenshots/screenshot1.jpg" height="450" width="225" >
+  <img src="https://github.com/PrijalBista/routineapp/blob/master/screenshots/screenshot2.jpg" height="450" width="225" >
+</div>
